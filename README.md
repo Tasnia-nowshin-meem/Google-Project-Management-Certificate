@@ -6,39 +6,39 @@ The Google Project Management Certificate Program equips participants with essen
 Project Manager:
 Project managers are integral in guiding projects to success, utilizing strong organizational and interpersonal skills. They prioritize tasks, delegate effectively, and communicate transparently with team members and stakeholders. Responsibilities include planning, organizing, managing tasks, budgeting, controlling costs, and ensuring quality for project success within defined parameters.
 Project Lifecycle:
-•	Initiation: Define goals, secure resources, gain approval.
-•	Planning: Detailed plan, budget, tasks breakdown, roles, schedule, risk management.
-•	Execution: Task completion, monitoring, obstacle resolution.
-•	Closure: Evaluation, documentation, sharing results for learning and improvement.
+Initiation: Define goals, secure resources, gain approval.
+Planning: Detailed plan, budget, tasks breakdown, roles, schedule, risk management.
+Execution: Task completion, monitoring, obstacle resolution.
+Closure: Evaluation, documentation, sharing results for learning and improvement.
 
 Project Planning for Beginners:
 A project plan serves as a vital roadmap for projects, regardless of their scale. It aids in delineating the project's scope, tasks, milestones, and overall activities. A comprehensive project plan typically comprises five fundamental components: tasks, milestones, team members, documentation, and timeline.
-•	Tasks: These are actionable items that must be accomplished within defined timeframes. Tasks are delegated to team members based on their respective roles and competencies.
-•	Milestones: Milestones are important points within the schedule that indicate progress and usually signify the completion of a deliverable or phase of the project.
-•	Documentation: Relevant documentation, such as project charters, requirements specifications, and design documents, is linked within the project plan. These documents serve to elucidate roles and responsibilities, ensuring alignment among team members.
-•	Timeline: The project plan incorporates estimated timeframes for various project activities. It encompasses start and end dates for tasks, projected milestone achievement dates, as well as the overall project duration.
+Tasks: These are actionable items that must be accomplished within defined timeframes. Tasks are delegated to team members based on their respective roles and competencies.
+Milestones: Milestones are important points within the schedule that indicate progress and usually signify the completion of a deliverable or phase of the project.
+Documentation: Relevant documentation, such as project charters, requirements specifications, and design documents, is linked within the project plan. These documents serve to elucidate roles and responsibilities, ensuring alignment among team members.
+Timeline: The project plan incorporates estimated timeframes for various project activities. It encompasses start and end dates for tasks, projected milestone achievement dates, as well as the overall project duration.
 
 Communicating and Working with Stakeholders:
-1.	Effective Communication: 
--	Exchange of information, ideas, and feedback.
--	Ensures understanding, alignment, and collaboration.
--	Fosters transparency, trust, and engagement.
+Effective Communication: 
+Exchange of information, ideas, and feedback.
+Ensures understanding, alignment, and collaboration.
+Fosters transparency, trust, and engagement.
 
-2.	Engagement with Stakeholders: 
--	Identifying individuals or groups with vested interests.
--	Understanding their needs and expectations.
--	Managing relationships and addressing concerns or conflicts.
+Engagement with Stakeholders: 
+Identifying individuals or groups with vested interests.
+Understanding their needs and expectations.
+Managing relationships and addressing concerns or conflicts.
 
        3.Proactive Stakeholder Management: 
--	Active listening and empathy.
--	Building positive relationships.
--	Achieving project objectives through stakeholder support and contribution.
+Active listening and empathy.
+Building positive relationships.
+Achieving project objectives through stakeholder support and contribution.
 Setting SMART Goals & Getting Results:
-•	SMART goals are emphasized for project management, ensuring they are Specific, Measurable, Achievable, Relevant, and Time-bound.
-•	Goals and deliverables are essential components of project initiation, guiding the project's direction and scope.
-•	Scope defines the boundaries of a project, outlining what is included and excluded, and helps prevent scope creep.
-•	Scope creep can arise from external sources like customer requests or internal factors such as team initiatives not aligned with the project's scope.
-•	Managing scope, time, and cost constraints (the triple constraint model) is crucial, as changes in one aspect affect the others and ultimately impact project success.
+SMART goals are emphasized for project management, ensuring they are Specific, Measurable, Achievable, Relevant, and Time-bound.
+Goals and deliverables are essential components of project initiation, guiding the project's direction and scope.
+Scope defines the boundaries of a project, outlining what is included and excluded, and helps prevent scope creep.
+Scope creep can arise from external sources like customer requests or internal factors such as team initiatives not aligned with the project's scope.
+Managing scope, time, and cost constraints (the triple constraint model) is crucial, as changes in one aspect affect the others and ultimately impact project success.
 Scrum:
 Scrum is a framework for developing complex products using an iterative and incremental approach, founded on pillars of transparency, inspection, and adaptation, and guided by core values of commitment, courage, focus, openness, and respect. Roles in Scrum include the Scrum Master, Product Owner, and Development Team, each requiring specific traits for successful implementation.
 Agile:
